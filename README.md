@@ -11,6 +11,7 @@ Ketentuan dalam membuat collection yang diinginkan adalah sebagai berikut:
 - Collection tersebut disimpan pada database sample_mflix pada cluster 2.
 - Values dari collection yang akan dibuat harus sama persis dengan collection movies_initial.
 - Collection movies_initial yang digunakan ada pada database sample_mflix pada cluster 2.
+
 <br><br>
 Validasi untuk collection clean_movies_tara dengan parameter sebagai berikut:
 - Semua document pada clean_movies dan movie sama.
