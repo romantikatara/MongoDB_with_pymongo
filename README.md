@@ -2,9 +2,9 @@
 Pada practice case ini akan dibuat suatu collection (tabel) pada cluster yang telah ditentukan. Cluster yang digunakan adalah:
 <br><br>
 **Cluster 1** <br>
-[mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority] <br>
+[mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority](mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority) <br>
 **Cluster 2** <br>
-[mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority]
+[mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority](mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority)
 <br><br>
 Cluster 1 digunakan untuk melihat collection movies. Sementara cluster 2 digunakan untuk melihat collection movies_initial dan menyimpan collection yang akan dibuat.
 <br><br>
@@ -22,4 +22,4 @@ Validasi untuk collection clean_movies_tara dengan parameter sebagai berikut:
 <br><br>
 Hasil collection yang telah dibuat disimpan pada cluster 2 dengan link sebagi berikut:
 <br>
-[mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority]
+[mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority](mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority)
