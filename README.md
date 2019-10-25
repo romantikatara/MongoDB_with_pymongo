@@ -2,12 +2,9 @@
 Pada practice case ini akan dibuat suatu collection (tabel) pada cluster yang telah ditentukan. Cluster yang digunakan adalah:
 
 <br>
-**Cluster 1**
-<br>
-*mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority*
-<br>
-**Cluster 2**
-<br>
+**Cluster 1** <br>
+*mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority* <br>
+**Cluster 2** <br>
 *mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority*
 
 <br>
