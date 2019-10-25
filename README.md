@@ -22,6 +22,6 @@ Validasi untuk collection clean_movies_tara dengan parameter sebagai berikut:
 - Semua fields pada clean_movies ada pada movie.
 - Semua value pada clean_movies sama dengan semua value pada movies dengan urutan yang sama.
 <br><br>
+
 Hasil collection yang telah dibuat disimpan pada cluster 2 dengan link sebagi berikut:
-<br>
 **mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority**
