@@ -1,9 +1,9 @@
 # Practice Case MongoDB with pymongo
 Pada practice case ini akan dibuat suatu collection (tabel) pada cluster yang telah ditentukan. Cluster yang digunakan adalah:
 
-<br>
 ## Cluster 1
-**mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority** <br>
+**mongodb+srv://userstudent:admin1234@cluster0-nnbxe.gcp.mongodb.net/test?retryWrites=true& w=majority**
+
 ## Cluster 2
 **mongodb+srv://admin1234:12345@cluster0-miqju.gcp.mongodb.net/test?retryWrites=true&w=majority**
 
