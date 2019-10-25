@@ -1,6 +1,5 @@
 # Practice Case MongoDB with pymongo
 Pada practice case ini akan dibuat suatu collection (tabel) pada cluster yang telah ditentukan. Cluster yang digunakan adalah:
-
 <br>
 **Cluster 1**
 <br>
